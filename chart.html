@@ -1,0 +1,190 @@
+<!doctype html>
+<!-- <html lang="ar" dir="rtl"> -->
+<html lang="en" dir="ltr">
+	<head>
+
+		<title>Page title</title>
+		<meta name="description" content="...">
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<!-- speed up external res -->
+		<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+		<link rel="dns-prefetch" href="https://fonts.gstatic.com/">
+		<link rel="preconnect" href="https://fonts.googleapis.com/">
+		<link rel="preconnect" href="https://fonts.gstatic.com/">
+		<!-- preloading icon font is helping to speed up a little bit -->
+		<link rel="preload" href="assets/fonts/flaticon/Flaticon.woff2" as="font" type="font/woff2" crossorigin>
+
+		<link rel="stylesheet" href="assets/css/core.min.css">
+		<link rel="stylesheet" href="assets/css/vendor_bundle.min.css">
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+	</head>
+	<body>
+		        <!--
+                      data-chartjs-type="pie|doughnut" 
+                      data-chartjs-legend="false|top|bottom|left|right" 
+                    -->
+                    <canvas class="chartjs" 
+                        data-chartjs-title="Pie Chart" 
+                        data-chartjs-legend="left" 
+                        data-chartjs-tooltip="true" 
+
+                        data-chartjs-type="doughnut" 
+                        data-chartjs-datasets='[
+                            ["Visitors", 544, "#ff0000"],
+                            ["Orders", 412, "#377dff"],
+                            ["Green Stuff", 455, "#6dbb30"],
+                            ["This is Yellow", 511, "#fad776"]
+                        ]'></canvas>
+
+		<canvas id="byObject" class="chartjs" data-custom="customChartJs"></canvas>
+		<script>
+
+		  var customChartJs = {
+			type: 'line',
+			data: {
+			  labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+			  datasets: [
+				{
+				  label: 'Visits',
+				  data: [20, 22, 24, 21, 23, 26, 24, 23, 21, 24, 23, 22],
+				  fill: true,
+
+				  pointHoverRadius: 4,
+				  pointHoverBorderWidth: 12,
+				  pointBackgroundColor:       'rgba(133, 133, 145, 0)',
+				  pointBorderColor:           'rgba(133, 145, 255, 0)',
+				  pointHoverBackgroundColor:  'rgba(133, 145, 255, 0)',
+				  pointHoverBorderColor:      'rgba(133, 145, 255, 0)',
+				  borderWidth: 0,
+
+				  backgroundColor:            'rgba(133, 145, 255, 0.5)',
+				  borderColor:                'rgb(133, 145, 255, 0)',
+
+				  categoryPercentage: 0.35,
+				  barPercentage: 0.70,
+				  // categoryPercentage: 0.6, // bar width adjust
+				  // barPercentage: 1,        // bar width adjust
+			
+				},
+				{
+				  label: 'Orders',
+				  data: [14, 16, 16, 14, 13, 12, 14, 14, 13, 14, 12, 10],
+				  fill: true,
+
+				  pointHoverRadius: 4,
+				  pointHoverBorderWidth: 12,
+				  pointBackgroundColor:       'rgba(133, 133, 145, 0)',
+				  pointBorderColor:           'rgba(133, 145, 255, 0)',
+				  pointHoverBackgroundColor:  'rgba(133, 145, 255, 0)',
+				  pointHoverBorderColor:      'rgba(133, 145, 255, 0)',
+				  borderWidth: 0,
+
+				  backgroundColor:            'rgba(133, 145, 255, 0.9)',
+				  borderColor:                'rgb(133, 145, 255, 0)',
+				}
+			  ]
+			},
+
+			options: {
+			  responsive: true,
+			  maintainAspectRatio: true,
+			  hover: {
+				mode: 'index'
+			  },
+			  legend: {
+				display: true,
+				position: 'top',
+			  },
+
+			  scales: {
+				  xAxes: [{
+					display: true,
+					scaleLabel: {
+					  display: false,
+					  labelString: 'Month'
+					},
+					ticks: {
+					  display: true,
+					  beginAtZero: true,
+					  fontColor: '#999999',
+					  fontSize: 13,
+					  padding: 10
+					},
+					display: true,
+					gridLines: false,
+				  }],
+
+				  yAxes: [{
+					display: true,
+					scaleLabel: {
+					  display: false,
+					  labelString: 'Value'
+					},
+
+					gridLines: {
+					  color:              '#dddddd',
+					  borderDash:         [2, 3],
+					  zeroLineBorderDash: [2, 3],
+					  zeroLineWidth: 1,
+					},
+
+					ticks: {
+					  max:            50,                            
+					  stepSize:       10,
+					  display:        true,
+					  beginAtZero:    true,
+					  fontColor:      '#999999',
+					  fontSize:       13,
+					  padding:        10
+					}
+				  }]
+			  },
+
+			  title: {
+				display: false,
+				text: 'Legend Position: top'
+			  },
+
+
+			  tooltips: {
+				enabled: true,
+				intersect: false,
+				mode: 'nearest',
+				bodySpacing: 5,
+				yPadding: 10,
+				xPadding: 15, 
+				caretPadding: 0,
+				displayColors: false,
+				backgroundColor: '#121212',
+				titleFontColor: '#ffffff', 
+				cornerRadius: 4,
+				footerSpacing: 0,
+				titleSpacing: 0
+			  },
+
+			  layout: {
+				padding: {
+				  left:   0,
+				  right:  0,
+				  top:    0,
+				  bottom: 0
+				}
+			  }
+			}
+		  };
+
+		</script>
+
+		<!-- Core javascripts -->
+		<script src="assets/js/core.min.js"></script>
+		<script src="assets/js/vendor_bundle.min.js"></script>
+
+		<!-- Your custom javascripts -->
+
+	</body>
+</html>
