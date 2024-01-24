@@ -1,7 +1,7 @@
 {
-  "name": "smarty-5",
-  "version": "5.0.6",
-  "description": "Please check us: www.stepofweb.com",
+  "name": "dinan",
+  "version": "1.0.0",
+  "description": "dinanweb",
   "main": "gulpfile.babel.js",
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",
@@ -121,9 +121,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.stepofweb.com"
+    "url": "https://github.com/zapboy216/dinanweb.git"
   },
-  "license": "ISC",
-  "author": "Dorin Grigoras",
-  "homepage": "https://www.stepofweb.com/"
+  "license": "ISC"
 }
