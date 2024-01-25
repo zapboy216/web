@@ -2,8 +2,8 @@
  *
  *  [SOW] Plugin Bilerplate : STARTUP|EXAMPLE
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  * 

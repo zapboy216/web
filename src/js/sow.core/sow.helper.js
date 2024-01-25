@@ -2,8 +2,8 @@
  *
  *  [SOW] Helper
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *
  *  @Dependency     -

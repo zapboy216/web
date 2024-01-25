@@ -2,8 +2,8 @@
  *
  *  [SOW] Typed.js
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.typed.init('.typed')

@@ -2,8 +2,8 @@
  *
  *  [SOW] Markdown Editor
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.markdowneditor.init('.markdown-editor');

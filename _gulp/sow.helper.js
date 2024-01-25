@@ -2,8 +2,8 @@
  *
  *	[GULP] SYS : HELPERS
  *
- *	@author 		Dorin Grigoras
- *					www.stepofweb.com
+ *	@author 		
+ *					
  *
  *	@Dependencies
  *

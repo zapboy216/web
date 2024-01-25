@@ -2,8 +2,8 @@
  *
  *  [SOW] GDPR
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.gdpr.init('#gdpr');

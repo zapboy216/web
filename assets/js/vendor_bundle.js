@@ -13868,8 +13868,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Jarallax
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.jarallax.init('.jarallax')
@@ -13981,8 +13981,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Sticky Kit
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.sticky_kit.init('.sticky-kit')
@@ -14155,8 +14155,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Sortable
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.sortable.init('.sortable');
@@ -14462,8 +14462,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Typed.js
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.typed.init('.typed')
@@ -14660,8 +14660,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Flickity [Ajax Reinit]
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.flickity.init('div[data-flickity]') (vendor stick with 'div[data-flickity]')
@@ -14783,8 +14783,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Fancybox
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.fancybox.init('a.fancybox')
@@ -15059,8 +15059,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Cocoen
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.cocoen.init('figure.cocoen')
@@ -15184,8 +15184,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] photoswipe
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.photoswipe.init()
@@ -15645,8 +15645,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Swiper
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.swiper.init('.swiper-container');
@@ -15955,8 +15955,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Leaflet [Map]
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.leaflet.init('.map-leaflet')
@@ -16192,8 +16192,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] AOS
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.aos.init()
@@ -16302,8 +16302,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Slimscroll
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.slimscroll.init('.slimscroll')
@@ -16473,8 +16473,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Nestable
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.nestable.init('.nestable');
@@ -17044,8 +17044,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] FullCalendar
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.fullcalendar.init('.fullcalendar');
@@ -17945,8 +17945,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Datepicker
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.datepicker.init('.datepicker');
@@ -18439,8 +18439,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Daterangepicker
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.daterangepicker.init('.rangepicker');
@@ -18902,8 +18902,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Color Picker
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.colorpicker.init('.colorpicker');
@@ -19454,8 +19454,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Flot Chart
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.flot.init('.flot');
@@ -20072,8 +20072,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Easypie Chart
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.easypie.init('.easypie');
@@ -20216,8 +20216,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Sparkline Chart.js
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.chartjs.init('.chartjs');
@@ -20847,8 +20847,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Medium Editor
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.mediumeditor.init('.medium-editor');
@@ -21375,8 +21375,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Markdown Editor
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.markdowneditor.init('.markdown-editor');
@@ -21597,8 +21597,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Summernote Editor
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.summernoteeditor.init('.summernote-editor');
@@ -21992,8 +21992,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Quill Editor
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.quilleditor.init('.typed')
@@ -22345,8 +22345,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Datatables
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.datatables.init('.table-datatable');
@@ -22900,8 +22900,8 @@ lite_ready__WEBPACK_IMPORTED_MODULE_0___default()(function () {
  *
  *  [SOW] Prism [Code Highlighter]
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.prismjs.init('pre')

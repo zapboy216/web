@@ -2,8 +2,8 @@
  *
  *  [SOW] Ajax Form
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_form.init('form.js-ajax');

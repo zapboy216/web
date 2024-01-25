@@ -2,8 +2,8 @@
  *
  *  [SOW] Inline Search
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.search_inline.init('input.iqs-input');

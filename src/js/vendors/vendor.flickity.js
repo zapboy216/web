@@ -2,8 +2,8 @@
  *
  *  [SOW] Flickity [Ajax Reinit]
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.flickity.init('div[data-flickity]') (vendor stick with 'div[data-flickity]')

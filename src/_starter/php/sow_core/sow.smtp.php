@@ -1,8 +1,8 @@
 <?php
 /**
  * @version			v1.0.0
- * @author			Dorin Grigoras 
- * 					www.stepofweb.com
+ * @author			 
+ * 					
  *
  * @date			Monday, Nov 26, 2018
  * @update			Tuesday, Jul 16, 2019
@@ -18,11 +18,11 @@
 			* Tuesday, Jul 16, 2019
 				** Adapted for Smarty Template
 				** Added __ckmail() so can be used alone
-				-- Dorin Grigoras
+				-- 
 
 			* Monday, Nov 26, 2018
 				** Initial Release
-				-- Dorin Grigoras
+				-- 
 
 
 
@@ -139,7 +139,7 @@ class SOW_Smtp {
 	 * 				:err__email_to__invalid_format: 	(array required)
 	 *
 	 * 	@public
-	 * 	@author 	Dorin Grigoras
+	 * 	@author 	
 	 *
 	 *
 	**/
@@ -225,7 +225,7 @@ class SOW_Smtp {
 	 * 				null 	: error, body/sender/provider/etc not valid
 	 *
 	 * 	@private
-	 * 	@author 	Dorin Grigoras
+	 * 	@author 	
 	 *
 	 *
 	**/
@@ -328,7 +328,7 @@ class SOW_Smtp {
 	 * 	@return 	true|error
 	 *
 	 * 	@private
-	 * 	@author 	Dorin Grigoras
+	 * 	@author 	
 	 *
 	 *
 	**/
@@ -506,7 +506,7 @@ class SOW_Smtp {
 	 * 	@return 	email|null
 	 *
 	 * 	@private
-	 * 	@author 	Dorin Grigoras
+	 * 	@author 	
 	 *
 	 *
 	**/

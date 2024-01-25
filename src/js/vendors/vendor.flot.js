@@ -2,8 +2,8 @@
  *
  *  [SOW] Flot Chart
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.flot.init('.flot');

@@ -2,8 +2,8 @@
  *
  *	[GULP] BUILD
  *
- *	@author 		Dorin Grigoras
- *					www.stepofweb.com
+ *	@author 		
+ *					
  *
  *	@Dependencies
  *

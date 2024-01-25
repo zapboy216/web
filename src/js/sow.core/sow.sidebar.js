@@ -2,8 +2,8 @@
  *
  *  [SOW] Sidebar
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.sidebar.init();

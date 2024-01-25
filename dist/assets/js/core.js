@@ -10889,8 +10889,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Stepofweb Controller
  *
- *  @author Dorin Grigoras
- *          www.stepofweb.com
+ *  @author 
+ *          
  *
  *  @version 1.1.0
 
@@ -11268,8 +11268,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Helper
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *
  *  @Dependency     -
@@ -12559,8 +12559,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Header
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.header.init();
@@ -13192,8 +13192,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Search Suggest
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.search_suggest.init('form.js-ajax-search');
@@ -13845,8 +13845,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Lazyload
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.lazyload.init('.lazy');
@@ -14145,8 +14145,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Ajax Navigation
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_navigation.init('a.js-ajax');
@@ -15476,8 +15476,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Ajax Content
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_content.init('div.js-ajax');
@@ -15870,8 +15870,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Ajax Form
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_form.init('form.js-ajax');
@@ -16385,8 +16385,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Ajax Select
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_select.init('select.js-ajax');
@@ -16987,8 +16987,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Ajax Modal
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_modal.init('.js-ajax-modal');
@@ -17534,8 +17534,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Ajax Confirm
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_confirm.init('.js-ajax-confirm');
@@ -18003,8 +18003,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Form Advanced
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.file_upload.init('input[type="file"].custom-file-input, input[type="file"].form-control');
@@ -19551,8 +19551,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Toast
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.toast.init('.toast-on-load');
@@ -19958,8 +19958,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Dropdown
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.dropdown_click_ignore.init('.dropdown-menu.dropdown-click-ignore');
@@ -20165,8 +20165,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Dropdown
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     $.SOW.core.dropdown_click_ignore
  *  @Usage          $.SOW.core.dropdown.init('.dropdown-menu.dropdown-menu-hover');
@@ -20509,8 +20509,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Dropdown Ajax
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     $.SOW.core.dropdown_click_ignore
  *                  $.SOW.core.dropdown
@@ -21318,8 +21318,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Count Animate
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.count_animate.init()
@@ -21774,8 +21774,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Btn Toggle
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.btn_toggle.init('.btn-toggle');
@@ -22051,8 +22051,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Nav Deep
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.nav_deep.init('.nav-deep', {speed:200});
@@ -22348,8 +22348,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Form Validate
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.form_validate.init('form.bs-validate');
@@ -22553,8 +22553,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Form Advanced
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.form_advanced.init();
@@ -24071,8 +24071,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Check All
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.checkall.init('input[data-checkall-container]');
@@ -24262,8 +24262,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Check Group
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.checkgroup.init('div.checkgroup');
@@ -24457,8 +24457,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] GDPR
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.gdpr.init('#gdpr');
@@ -24733,8 +24733,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Sidebar
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.sidebar.init();
@@ -24928,8 +24928,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Scroll To
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.scroll_to.init('a.scroll-to', {speed:400});
@@ -25222,8 +25222,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Inline Search
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.search_inline.init('input.iqs-input');
@@ -25380,8 +25380,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Input Suggest
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     $.SOW.core.search_inline (for inline search)
  *  @Usage          $.SOW.core.input_suggest.init('input.input-suggest');
@@ -25845,8 +25845,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Timer Autohide
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.timer_autohide.init('.timer-autohide');
@@ -25972,8 +25972,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Timer Countdown
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.timer_countdown.init('.timer-countdown');
@@ -26293,8 +26293,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Google Font
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.gfont.init('[data-gfont]');
@@ -26412,8 +26412,8 @@ if ( window.NodeList && !NodeList.prototype.forEach ) {
  *
  *  [SOW] Utils
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.utils.init();

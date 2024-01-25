@@ -2,8 +2,8 @@
  *
  *  [SOW] Swiper
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.swiper.init('.swiper-container');

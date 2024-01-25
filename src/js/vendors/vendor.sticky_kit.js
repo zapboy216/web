@@ -2,8 +2,8 @@
  *
  *  [SOW] Sticky Kit
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.sticky_kit.init('.sticky-kit')

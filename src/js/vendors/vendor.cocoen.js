@@ -2,8 +2,8 @@
  *
  *  [SOW] Cocoen
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.cocoen.init('figure.cocoen')

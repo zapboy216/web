@@ -2,8 +2,8 @@
  *
  *  [SOW] Check Group
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.checkgroup.init('div.checkgroup');

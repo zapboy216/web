@@ -2,8 +2,8 @@
  *
  *  [SOW] Nestable
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.nestable.init('.nestable');

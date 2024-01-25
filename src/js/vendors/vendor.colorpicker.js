@@ -2,8 +2,8 @@
  *
  *  [SOW] Color Picker
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.colorpicker.init('.colorpicker');

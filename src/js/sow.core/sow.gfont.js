@@ -2,8 +2,8 @@
  *
  *  [SOW] Google Font
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.gfont.init('[data-gfont]');

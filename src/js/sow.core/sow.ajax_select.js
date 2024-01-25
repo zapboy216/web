@@ -2,8 +2,8 @@
  *
  *  [SOW] Ajax Select
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_select.init('select.js-ajax');

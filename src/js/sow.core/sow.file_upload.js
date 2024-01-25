@@ -2,8 +2,8 @@
  *
  *  [SOW] Form Advanced
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.file_upload.init('input[type="file"].custom-file-input, input[type="file"].form-control');

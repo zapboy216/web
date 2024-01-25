@@ -2,8 +2,8 @@
  *
  *  [SOW] Medium Editor
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.mediumeditor.init('.medium-editor');

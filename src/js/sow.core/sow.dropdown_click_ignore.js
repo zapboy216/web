@@ -2,8 +2,8 @@
  *
  *  [SOW] Dropdown
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.dropdown_click_ignore.init('.dropdown-menu.dropdown-click-ignore');

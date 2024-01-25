@@ -2,8 +2,8 @@
  *
  *  [SOW] Leaflet [Map]
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.leaflet.init('.map-leaflet')

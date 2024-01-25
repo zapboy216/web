@@ -2,8 +2,8 @@
  *
  *	[SOW] Webserver
  *
- *	@author 		Dorin Grigoras
- *					www.stepofweb.com
+ *	@author 		
+ *					
  *
  *	@Dependencies
  *

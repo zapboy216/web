@@ -2,8 +2,8 @@
  *
  *  [SOW] Ajax Modal
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_modal.init('.js-ajax-modal');

@@ -2,8 +2,8 @@
  *
  *  [SOW] Utils
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.utils.init();

@@ -2,8 +2,8 @@
  *
  *  [SOW] Count Animate
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.count_animate.init()

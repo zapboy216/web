@@ -2,8 +2,8 @@
  *
  *  [SOW] Nav Deep
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.nav_deep.init('.nav-deep', {speed:200});

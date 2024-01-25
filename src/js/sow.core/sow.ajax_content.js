@@ -2,8 +2,8 @@
  *
  *  [SOW] Ajax Content
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_content.init('div.js-ajax');

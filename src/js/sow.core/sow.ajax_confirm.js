@@ -2,8 +2,8 @@
  *
  *  [SOW] Ajax Confirm
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_confirm.init('.js-ajax-confirm');

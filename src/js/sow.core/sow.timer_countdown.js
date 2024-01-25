@@ -2,8 +2,8 @@
  *
  *  [SOW] Timer Countdown
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.timer_countdown.init('.timer-countdown');

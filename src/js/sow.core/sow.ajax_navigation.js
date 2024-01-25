@@ -2,8 +2,8 @@
  *
  *  [SOW] Ajax Navigation
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.ajax_navigation.init('a.js-ajax');

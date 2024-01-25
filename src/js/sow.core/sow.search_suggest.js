@@ -2,8 +2,8 @@
  *
  *  [SOW] Search Suggest
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.search_suggest.init('form.js-ajax-search');

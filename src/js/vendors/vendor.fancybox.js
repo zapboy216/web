@@ -2,8 +2,8 @@
  *
  *  [SOW] Fancybox
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.fancybox.init('a.fancybox')

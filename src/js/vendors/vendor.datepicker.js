@@ -2,8 +2,8 @@
  *
  *  [SOW] Datepicker
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.datepicker.init('.datepicker');

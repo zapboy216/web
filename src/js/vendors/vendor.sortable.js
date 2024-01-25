@@ -2,8 +2,8 @@
  *
  *  [SOW] Sortable
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.sortable.init('.sortable');

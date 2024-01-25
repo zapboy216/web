@@ -3,8 +3,8 @@
  *
  *	[SOW] Step Of Web
  *
- *	@author Dorin Grigoras
- *					www.stepofweb.com
+ *	@author 
+ *					
  *
  *	Useful PHP functions
  * 	Extract them or use the entire class!

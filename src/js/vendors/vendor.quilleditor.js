@@ -2,8 +2,8 @@
  *
  *  [SOW] Quill Editor
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.quilleditor.init('.typed')

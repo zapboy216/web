@@ -2,8 +2,8 @@
  *
  *  [SOW] Dropdown Ajax
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     $.SOW.core.dropdown_click_ignore
  *                  $.SOW.core.dropdown

@@ -2,8 +2,8 @@
  *
  *  [SOW] Easypie Chart
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.easypie.init('.easypie');

@@ -2,8 +2,8 @@
  *
  *  [SOW] Datatables
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.datatables.init('.table-datatable');

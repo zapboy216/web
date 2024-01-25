@@ -2,8 +2,8 @@
  *
  *  [SOW] Timer Autohide
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.timer_autohide.init('.timer-autohide');

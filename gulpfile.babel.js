@@ -4,8 +4,8 @@
 
     Smarty Reborn [v3]
 
-    Dorin Grigoras
-    www.stepofweb.com
+    
+    
 
     Product Page
     https://wrapbootstrap.com/theme/smarty-website-admin-rtl-WB02DSN1B

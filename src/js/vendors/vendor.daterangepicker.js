@@ -2,8 +2,8 @@
  *
  *  [SOW] Daterangepicker
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.daterangepicker.init('.rangepicker');

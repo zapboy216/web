@@ -2,8 +2,8 @@
  *
  *  [SOW] Header
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.header.init();

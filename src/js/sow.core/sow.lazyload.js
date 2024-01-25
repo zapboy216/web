@@ -2,8 +2,8 @@
  *
  *  [SOW] Lazyload
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.lazyload.init('.lazy');

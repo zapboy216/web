@@ -2,8 +2,8 @@
  *
  *  [SOW] Jarallax
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.jarallax.init('.jarallax')

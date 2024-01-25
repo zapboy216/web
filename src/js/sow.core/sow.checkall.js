@@ -2,8 +2,8 @@
  *
  *  [SOW] Check All
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.checkall.init('input[data-checkall-container]');

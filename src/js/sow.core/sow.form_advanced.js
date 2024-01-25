@@ -2,8 +2,8 @@
  *
  *  [SOW] Form Advanced
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.form_advanced.init();

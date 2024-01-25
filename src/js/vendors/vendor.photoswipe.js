@@ -2,8 +2,8 @@
  *
  *  [SOW] photoswipe
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.photoswipe.init()

@@ -2,8 +2,8 @@
  *
  *  [SOW] Slimscroll
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.slimscroll.init('.slimscroll')

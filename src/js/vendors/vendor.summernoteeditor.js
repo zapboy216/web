@@ -2,8 +2,8 @@
  *
  *  [SOW] Summernote Editor
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.summernoteeditor.init('.summernote-editor');

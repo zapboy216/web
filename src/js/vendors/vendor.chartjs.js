@@ -2,8 +2,8 @@
  *
  *  [SOW] Sparkline Chart.js
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.chartjs.init('.chartjs');

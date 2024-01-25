@@ -2,8 +2,8 @@
  *
  *  [SOW] FullCalendar
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependencies   -
  *  @Usage          $.SOW.vendor.fullcalendar.init('.fullcalendar');

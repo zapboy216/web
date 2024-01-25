@@ -2,8 +2,8 @@
  *
  *  [SOW] Btn Toggle
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.btn_toggle.init('.btn-toggle');

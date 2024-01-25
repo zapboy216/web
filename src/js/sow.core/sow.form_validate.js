@@ -2,8 +2,8 @@
  *
  *  [SOW] Form Validate
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.form_validate.init('form.bs-validate');

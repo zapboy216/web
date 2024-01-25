@@ -2,8 +2,8 @@
  *
  *  [SOW] Input Suggest
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     $.SOW.core.search_inline (for inline search)
  *  @Usage          $.SOW.core.input_suggest.init('input.input-suggest');

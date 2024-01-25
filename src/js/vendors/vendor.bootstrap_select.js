@@ -2,8 +2,8 @@
  *
  *  [SOW] Bootstrap Select
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.bootstrap_select.init('select.bs-select');

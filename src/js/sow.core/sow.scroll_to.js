@@ -2,8 +2,8 @@
  *
  *  [SOW] Scroll To
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.core.scroll_to.init('a.scroll-to', {speed:400});

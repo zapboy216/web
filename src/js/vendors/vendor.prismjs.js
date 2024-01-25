@@ -2,8 +2,8 @@
  *
  *  [SOW] Prism [Code Highlighter]
  *
- *  @author         Dorin Grigoras
- *                  www.stepofweb.com
+ *   
+ *                  
  *
  *  @Dependency     -
  *  @Usage          $.SOW.vendor.prismjs.init('pre')
